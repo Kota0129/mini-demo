@@ -12,6 +12,11 @@
     line-height: 1.6;
   }
   
+  .container {
+    padding: 0 4%;
+    margin: 0 auto;
+  }
+  
   .header {
     background: #444;
     padding: 1rem 4%;
